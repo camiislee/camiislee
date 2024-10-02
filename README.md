@@ -1,6 +1,7 @@
 *Olá! Boas-vindas ao meu perfil*✨
 
 Meu nome é Camile
+
 -Estou estudando na Alura 
 
 -Estou me desenvolvendo na linguagem Javascript 
