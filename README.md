@@ -13,5 +13,4 @@ Meu nome é Camile
 camiislee@gmail.com
 
 
-![](![17278659513286365777065385747415](https://github.com/user-attachments/assets/a3721cae-7b71-40c6-b787-c95df2bf3319)
-)
+![](![17278659513286365777065385747415](https://github.com/user-attachments/assets/a3721cae-7b71-40c6-b787-c95df2bf3319))
